@@ -1,4 +1,4 @@
-# launchpadXholder
+# Launchpad X Holder
 Launchpad X holder for drumset to mount on tom holder clamp
 
 Top view:
