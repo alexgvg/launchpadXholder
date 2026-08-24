@@ -1,5 +1,5 @@
 # launchpadXholder
-Launchpad X Holder for Drumset
+Launchpad X holder for drumset to mount on tom holder clamp
 
 <img width="934" height="639" alt="LaunchpadXHolder3DTop" src="https://github.com/user-attachments/assets/2cb37d1a-8eb9-4eee-9af8-6164f2ee8bc9" />
 
